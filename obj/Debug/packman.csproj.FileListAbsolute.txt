@@ -1,0 +1,31 @@
+C:\Users\student\source\repos\packman\packman\bin\Debug\packman.exe.config
+C:\Users\student\source\repos\packman\packman\bin\Debug\packman.exe
+C:\Users\student\source\repos\packman\packman\bin\Debug\packman.pdb
+C:\Users\student\source\repos\packman\packman\obj\Debug\packman.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\packman\packman\obj\Debug\packman.Form1.resources
+C:\Users\student\source\repos\packman\packman\obj\Debug\packman.Properties.Resources.resources
+C:\Users\student\source\repos\packman\packman\obj\Debug\packman.csproj.GenerateResource.cache
+C:\Users\student\source\repos\packman\packman\obj\Debug\packman.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\packman\packman\obj\Debug\packman.exe
+C:\Users\student\source\repos\packman\packman\obj\Debug\packman.pdb
+C:\Users\student\Desktop\packman\packman\bin\Debug\packman.exe.config
+C:\Users\student\Desktop\packman\packman\bin\Debug\packman.exe
+C:\Users\student\Desktop\packman\packman\bin\Debug\packman.pdb
+C:\Users\student\Desktop\packman\packman\obj\Debug\packman.csprojAssemblyReference.cache
+C:\Users\student\Desktop\packman\packman\obj\Debug\packman.Form1.resources
+C:\Users\student\Desktop\packman\packman\obj\Debug\packman.Properties.Resources.resources
+C:\Users\student\Desktop\packman\packman\obj\Debug\packman.csproj.GenerateResource.cache
+C:\Users\student\Desktop\packman\packman\obj\Debug\packman.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\packman\packman\obj\Debug\packman.exe
+C:\Users\student\Desktop\packman\packman\obj\Debug\packman.pdb
+C:\Users\student\Desktop\packman\packman\obj\Debug\packman.eattext.resources
+D:\Пользователи\Рабочий стол\packman\packman\obj\Debug\packman.exe
+D:\Пользователи\Рабочий стол\packman\packman\obj\Debug\packman.pdb
+D:\Пользователи\Рабочий стол\packman\packman\bin\Debug\packman.exe.config
+D:\Пользователи\Рабочий стол\packman\packman\bin\Debug\packman.exe
+D:\Пользователи\Рабочий стол\packman\packman\bin\Debug\packman.pdb
+D:\Пользователи\Рабочий стол\packman\packman\obj\Debug\packman.csprojAssemblyReference.cache
+D:\Пользователи\Рабочий стол\packman\packman\obj\Debug\packman.eattext.resources
+D:\Пользователи\Рабочий стол\packman\packman\obj\Debug\packman.Properties.Resources.resources
+D:\Пользователи\Рабочий стол\packman\packman\obj\Debug\packman.csproj.GenerateResource.cache
+D:\Пользователи\Рабочий стол\packman\packman\obj\Debug\packman.csproj.CoreCompileInputs.cache
