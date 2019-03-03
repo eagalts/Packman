@@ -9,3 +9,5 @@
 Packman ест биткоины. 
 
 ПАСХАЛКА: При нажатии на кнопку K (Л) вы выигрываете.
+
+Скачать: https://github.com/egors000/Packman/blob/master/bin/Debug/packman.exe
